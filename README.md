@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Jaewon
 I wanna be a data scientist.
-and digital humanist!
+and digital human engineer!
 
 - 🌱 I’m currently learning Machine Learning, AI.
 - 📫 How to reach me : jaewonyeee@gmail.com
@@ -19,6 +19,10 @@ Description : This project allows you to look back on your life how much you hav
 
 Description : It is a work that expresses my future-oriented persona as a generative art.
   
+<img src="https://i.seadn.io/gae/dqiKazAYhr_uu7ZX2kuQF8yLMR1G9RaUHHhkNWwQ4hcKr47-i90xvOSTym2N614LECYxn7r1DPF2NZdY8Fh9OHb87YX8TNSRVOvd?auto=format&w=1920" width="24.8%" height="24.8%" title="MAANSEI PLANET" alt="MAANSEI PLANET"></img>
+<img src="https://pbs.twimg.com/profile_banners/1503055194753429511/1647374010/1500x500" width="74.5%" height="74.5%" title="MaanSei" alt="MaanSei Twitter Banner"></img>
+
+
 ***
 
 
