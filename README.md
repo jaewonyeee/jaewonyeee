@@ -1,13 +1,21 @@
 ### Hi there 👋, my name is Jaewon
 I wanna be a data scientist.
-
+and digital humanist!
 
 - 🌱 I’m currently learning Machine Learning, AI.
 - 📫 How to reach me : jaewonyeee@gmail.com
-- 💕 I love modeling and producing the pipeline of photorealistic digital humans. 
-> <strong>[Joseon人 Project](https://capstone-design.notion.site/48451b6b384140d9884c6b70e9ed267d)
->
+- 💕 I love modeling and producing the pipeline of photorealistic digital humans.
+
+><strong>[Joseon人 Project](https://capstone-design.notion.site/48451b6b384140d9884c6b70e9ed267d) (조선人 프로젝트)
+  
+<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOQmnv-I2YDs-wrkZQgD-KR31EWABRqqgt703zGmMeJiFXV32qt6y5rB68AAYPwbU3s11dcKlIj172tMu9pWx9O5H_f44g=w1920-h969" width="100%" height="100%" title="Digital Human" alt="Joseon人 Project"></img>
+
+
+> <strong>[Face to Face Visualizatioin](https://sites.google.com/view/face-to-face-visualization/jaewon-lee20196350) (대면 시각화)
+
+Description : This project allows you to look back on your life how much you have faced people for a day. In this project, we use Wi-Fi sniffing to detect people.
 ***
+
 
 ✍<strong>Tech Stack
 
