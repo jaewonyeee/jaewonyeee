@@ -14,6 +14,11 @@ and digital humanist!
 > <strong>[Face to Face Visualizatioin](https://sites.google.com/view/face-to-face-visualization/jaewon-lee20196350) (대면 시각화)
 
 Description : This project allows you to look back on your life how much you have faced people for a day. In this project, we use Wi-Fi sniffing to detect people.
+
+> <strong>[MaanSei : PFP NFT Project](https://twitter.com/maan_sei) (PFP NFT 프로젝트)
+
+Description : It is a work that expresses my future-oriented persona as a generative art.
+  
 ***
 
 
