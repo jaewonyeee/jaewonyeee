@@ -2,7 +2,7 @@
 I wanna be a data scientist.
 and digital human engineer!
 
-- 🌱 I’m currently learning Machine Learning, AI.
+- 🌱 I’m currently learning Algorithm, Machine Learning, AI.
 - 📫 How to reach me : jaewonyeee@gmail.com
 - 💕 I love modeling and producing the pipeline of photorealistic digital humans.
 
