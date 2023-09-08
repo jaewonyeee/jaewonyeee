@@ -8,8 +8,7 @@ and digital human engineer!
 
 ><strong>[Joseon人 Project](https://capstone-design.notion.site/48451b6b384140d9884c6b70e9ed267d) (조선人 프로젝트)
   
-<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AITFw-wtQyo27MMcXLr_pG-IqvO9g6iGiGFFHuO0AbCh_k5l4etStnqpMbaSpT2hS6p-ksii3av7C3XQOHSu5TKaZSqdVkC_oQ=w1920-h1080" width="100%" height="100%" title="Digital Human" alt="Joseon人 Project"></img>
-
+<img src="https://github.com/jaewonyeee/jaewonyeee/assets/129675209/609ff2d5-33c8-45e2-86ee-d4fe281fba75" width="100%" height="100%" title="Digital Human" alt="Joseon人 Project"></img>
 
 > <strong>[Face to Face Visualizatioin](https://sites.google.com/view/face-to-face-visualization/jaewon-lee20196350) (대면 시각화)
 
@@ -19,7 +18,7 @@ Description : This project allows you to look back on your life how much you hav
 
 Description : It is a work that expresses my future-oriented persona as a generative art.
   
-<img src="https://i.seadn.io/gae/dqiKazAYhr_uu7ZX2kuQF8yLMR1G9RaUHHhkNWwQ4hcKr47-i90xvOSTym2N614LECYxn7r1DPF2NZdY8Fh9OHb87YX8TNSRVOvd?auto=format&w=1920" width="24.8%" height="24.8%" title="MAANSEI PLANET" alt="MAANSEI PLANET"></img>
+
 <img src="https://pbs.twimg.com/profile_banners/1503055194753429511/1647374010/1500x500" width="74.5%" height="74.5%" title="MaanSei" alt="MaanSei Twitter Banner"></img>
 
 
