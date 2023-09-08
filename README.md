@@ -8,7 +8,8 @@ and digital human engineer!
 
 ><strong>[Joseon人 Project](https://capstone-design.notion.site/48451b6b384140d9884c6b70e9ed267d) (조선人 프로젝트)
   
-<img src="https://github.com/jaewonyeee/jaewonyeee/assets/129675209/609ff2d5-33c8-45e2-86ee-d4fe281fba75" width="100%" height="100%" title="Digital Human" alt="Joseon人 Project"></img>
+<img src="https://github.com/jaewonyeee/jaewonyeee/assets/129675209/4f28efe2-6353-44c9-a68d-6cc318c5250a" width="100%" height="100%" title="Digital Human" alt="Joseon人 Project"></img>
+
 
 > <strong>[Face to Face Visualizatioin](https://sites.google.com/view/face-to-face-visualization/jaewon-lee20196350) (대면 시각화)
 
