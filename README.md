@@ -7,18 +7,18 @@ and get a job at a securities company someday.
 - 📫 How to reach me : jaewonyeee@gmail.com
 
 
-> <strong>[Joseon人 Project](https://capstone-design.notion.site/48451b6b384140d9884c6b70e9ed267d) (조선人 프로젝트)
+> ### <strong>[Joseon人 Project](https://capstone-design.notion.site/48451b6b384140d9884c6b70e9ed267d) (조선人 프로젝트)
 
 Description : As a major in the department, We created a digital human production pipeline that can efficiently design and produce photo-realistic digital human beings, and revived and exhibited famous Korean historical figures. (3 team members, 6 months work, 3 digital human beings) 
 
 <img src="https://github.com/jaewonyeee/jaewonyeee/assets/129675209/4f28efe2-6353-44c9-a68d-6cc318c5250a" width="100%" height="100%" title="Digital Human" alt="Joseon人 Project"></img>
 
 
-> <strong>[Face to Face Visualizatioin](https://sites.google.com/view/face-to-face-visualization/jaewon-lee20196350) (대면 시각화)
+> ### <strong>[Face to Face Visualizatioin](https://sites.google.com/view/face-to-face-visualization/jaewon-lee20196350) (대면 시각화)
 
 Description : This project allows you to look back on your life how much you have faced people for a day. In this project, we use Wi-Fi sniffing to detect people.
 
-> <strong>[MaanSei : PFP NFT Project](https://twitter.com/maan_sei) (PFP NFT 프로젝트)
+> ### <strong>[MaanSei : PFP NFT Project](https://twitter.com/maan_sei) (PFP NFT 프로젝트)
 
 Description : It is a work that expresses my future-oriented persona as a generative art.
   
