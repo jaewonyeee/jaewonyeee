@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Jaewon
-I wanna be a data scientist.
-and get a job at a securities company someday.
+I wanna be a ai data engineer.
+and be going to work at a sk c&c someday.
 
 - 💕 I love investing in stocks and planning an IT service 
 - 🌱 I’m currently learning React Native for making own apps.
-- 📫 How to reach me : jaewonyeee@gmail.com
+- 📫 How to reach me : sis04263@gmail.com
 
 
 > ### <strong>[Joseon人 Project](https://capstone-design.notion.site/48451b6b384140d9884c6b70e9ed267d) (조선人 프로젝트)
