@@ -1,9 +1,8 @@
 ### Hi there 👋, my name is Jaewon
-I wanna be a ai data engineer.
-and be going to work at a sk c&c someday.
+I am ux/ui designer for ai workflow tool.
 
 - 💕 I love investing in stocks and planning an IT service 
-- 🌱 I’m currently learning AI Data Service for making own apps.
+- 🌱 I’m currently learning AI tool for making own apps.
 - 📫 How to reach me : jaewonyeee@gmail.com
 
 
